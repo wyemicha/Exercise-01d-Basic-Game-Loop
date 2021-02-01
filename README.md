@@ -1,6 +1,8 @@
 # Exercise-01d-Basic-Game-Loop
 Exercise for MSCH-C220, 1 February 2021
 
+A video demonstration of this exercise is available here: (https://youtu.be/NsJfGe-0Ns4)[https://youtu.be/NsJfGe-0Ns4].
+
 This exercise is an opportunity for you to create a (simple) interactive-fiction game engine in Python. Ultimately, your responsibility will be to complete the update, render, and get_input functions in main.py; I plan to take significant time in class to walk through that process step-by-step.
 
 As usual, the first step is to Fork the repository. When that process has completed, make sure that the top of the repository reads [your username]/Exercise-01d-Basic-Game-Loop.

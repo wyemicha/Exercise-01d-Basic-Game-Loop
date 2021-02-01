@@ -1,7 +1,7 @@
 # Exercise-01d-Basic-Game-Loop
 Exercise for MSCH-C220, 1 February 2021
 
-A video demonstration of this exercise is available here: (https://youtu.be/NsJfGe-0Ns4)[https://youtu.be/NsJfGe-0Ns4].
+A video demonstration of this exercise is available here: [https://youtu.be/NsJfGe-0Ns4](https://youtu.be/NsJfGe-0Ns4).
 
 This exercise is an opportunity for you to create a (simple) interactive-fiction game engine in Python. Ultimately, your responsibility will be to complete the update, render, and get_input functions in main.py; I plan to take significant time in class to walk through that process step-by-step.
 
